@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "1 Track Applications2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": []
+      },
+      {
+        "name": "myVar2",
+        "value": {}
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "1 Track Applications2_Utils",
+  "deleted": false,
+  "gitSyncId": "63ea18692433c03ebe8c6e30_63ea18712433c03ebe8c6eac"
+}
